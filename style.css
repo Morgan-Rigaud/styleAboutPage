@@ -8,11 +8,14 @@ h1{
     font-weight: bold;
 }
 @media (max-width: 100px) { 
-    h2{
+        h2{
     color: #6F8AB7;
-    font-size: 20px;
+    font-size: 18px;
     font-weight: bold;
     font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+    }
+    ul{
+        font-size: 12px;
     }
  }
 h2{
