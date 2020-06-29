@@ -1,0 +1,57 @@
+
+h1{
+    font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+    font-size: 24px;
+    letter-spacing: 1px;
+    word-spacing: 2px;
+    color: #615d6c;
+    font-weight: bold;
+}
+@media (max-width: 100px) { 
+    h2{
+    color: #6F8AB7;
+    font-size: 20px;
+    font-weight: bold;
+    font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+    }
+ }
+h2{
+    color: #6F8AB7;
+    font-size: 20px;
+    font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+}
+a{
+    font-size: 20px;
+    margin-bottom: 20px;
+    color: #6f8ab7;
+    font-family: "Trebuchet MS", Helvetica, sans-serif;
+}
+img{
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border: 1px #615D6C;
+}
+
+ul{
+    list-style-type: none;
+    font-family: "Trebuchet MS", Helvetica, sans-serif;
+    font-size: 16px;
+    letter-spacing: 2px;
+    word-spacing: 2px;
+    color: #615D6C;
+    font-weight: normal;
+}
+body{
+    text-align: center;
+    background-color: #acedff;
+    color: #6f8ab7;
+    font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+}
+p{
+    text-align: center;
+    font-family: "Trebuchet MS", Helvetica, sans-serif;
+    color: #615d6c;
+}
